@@ -1,7 +1,7 @@
 {
     "version": "1.0.1",
     "summary": "Build visual presentations like Prezi's",
-    "repository": "https://github.com/myrho/dive.git",
+    "repository": "https://github.com/Santhosh-KS/dive.git",
     "license": "Apache License, Version 2.0",
     "source-directories": [
         "src"
